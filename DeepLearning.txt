@@ -1,0 +1,26 @@
+Inspired by the growing popularity of Deep Learning, I thought of coming up with a series of blogs that will educate you about
+this new trend in the field of Artificial Intelligence and help you understand what is it all about. This is the first of the many blogs in the series called as - Deep Learning Tutorial.
+
+Now think about this, instead of you doing all your work, you have a machine to finish it for you or it can do something which you thought was not possible at all. For instance:
+
+Predicting Future - Deep Learning Tutorial - Edureka
+Predicting the Future: It can help us in predicting Earthquakes, Tsunami’s, etc. beforehand so that preventive measures can be taken to save many lives from falling into the clutches of natural calamities.
+
+Chat-bots: All of you would have heard about Siri, which is Apple’s voice controlled virtual assistant. Believe me, with the help of Deep Learning these virtual assistance are getting smarter day by day. In fact, Siri can adapt itself according to the user and provide better personalized assistance.
+Chat Bots - Deep Learning Tutorial - Edureka
+
+Self Driving Cars - Deep Learning Tutorial - Edureka
+Self-driving Cars: Imagine, how incredible it would be for physically disabled and elderly people who find it difficult to drive on their own. Apart from this, it will save millions of innocent lives who meet road accident every year because of human error.
+
+Google AI Eye Doctor: It is a recent initiative taken by Google where they are working with an Indian Eye Care Chain to develop an AI software which can examine retina scans and identify a condition called diabetic retinopathy, which can cause blindness.
+
+AI Eye Doctor - Deep Learning Tutorial - Edureka
+
+AI Music Composer - Deep Learning Tutorial - Edureka
+AI Music Composer: Well, who thought we can have an AI music composer using Deep Learning. Hence, I would not be surprised to hear that the next best music is given by a machine.
+
+A Dream Reading Machine: This is one of my favorites, a machine that can capture your dreams in the form of video or something. With so many un-realistic applications of AI & Deep Learning we have seen so far, I was not surprised to find out that this was tried in Japan few years back on three test subjects and they were able to achieve close to 60% accuracy. That is something quite unbelievable, yet true.
+
+AI Dream Machine - Deep Learning Tutorial - Edureka
+
+I am pretty sure that some of these real life applications of AI & Deep Learning would have given you goosebumps. Alright then, this sets the base for you and now, we are ready to proceed further in this Deep Learning Tutorial and understand what is Artificial Intelligence.
